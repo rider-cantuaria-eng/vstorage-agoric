@@ -1,0 +1,16 @@
+{
+  "name": "next-agoric-vstorage",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@endo/eventual-send": "^1.2.2",
+    "buffer": "^6.0.3",
+    "ses": "^1.5.0"
+  },
+  "dependencies": {
+    "@endo/far": "^1.1.2",
+    "@endo/marshal": "^1.5.0"
+  }
+}
